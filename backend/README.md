@@ -1,4 +1,4 @@
-# people-grove-be
+# roni-analytics-be
 1. Clone this repo
 2. Move to this directory
 3. Run npm i to install packages
